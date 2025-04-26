@@ -16,7 +16,11 @@ Hi there! 👋 I'm Wahyu Nugraha
 🧋 Fun fact: I love building things from scratch and making them real!
 
 📈 GitHub Statistics
-<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=algolia"/> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
 🔗 Connect with Me
 <p align="left"> <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/wahyunugrahha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
 ☕ Let's Collaborate!
