@@ -1,25 +1,26 @@
-### Hi! 👋 I'm Wahyu.
+Hi there! 👋 I'm Wahyu Nugraha
+🎯 A passionate Mobile Android Developer who loves creating and sharing projects about mobile development.
+🎓 Currently an active student at Sriwijaya University.
+☁️ Learning more about Front End Dev.
+💬 Feel free to reach out if you want to collaborate, discuss, or just chat!
 
-An Mobile Android Developer who loves to create and share projects about mobdev. 
+🚀 About Me
+🔭 I’m currently working on personal mobile app projects.
 
-I'm currently active student at Sriwijaya University 
+🌱 I’m deepening my knowledge in cloud-based back-end development.
 
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me
-- 📫 How to reach me: wahyunih297@gmail.com
+🧩 Always excited to learn new technologies and frameworks.
 
-Tea Username : wahyunugrahha
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/wahyunugrahha">
-<p align="left">
-<a href="https://github.com/wahyunugrahha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+📫 How to reach me: wahyunih297@gmail.com
 
-### Reach me on
-- <a href="https://linkedin.com/in/wahyunugrahha/">LinkedIn</a>
-- <a href="https://twitter/wahyunugrahha">Twitter</a>
+🧋 Fun fact: I love building things from scratch and making them real!
+
+📈 GitHub Statistics
+<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=algolia"/> </p>
+🔗 Connect with Me
+<p align="left"> <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/wahyunugrahha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
+☕ Let's Collaborate!
+If you're into mobile app development, cloud backend, or anything tech-related —
+let's connect and create something amazing together! 🚀
+
+✨ Keep coding, keep growing!
