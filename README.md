@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Wahyu Nugraha
 
-🎯 A passionate **Mobile Android Developer** who loves creating and sharing projects about mobile development.  
-🎓 Currently an active student at **Sriwijaya University**.  
-☁️ Learning more about **Front-End Development**.  
-💬 Feel free to reach out if you want to collaborate, discuss, or just chat!
+🎯 A passionate **Software Developer** who loves building and sharing tech projects.  
+🎓 Graduate of **Sriwijaya University**, majoring in **Informatics Engineering**.  
+☁️ Learning more about **Front-End Development** and **Cloud Computing**.  
+💬 Feel free to reach out if you want to collaborate, discuss tech, or just chat!
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Nothing**.
-- 🌱 Deepening my knowledge in **Web Development**.
-- 🧩 Always excited to learn **new technologies and frameworks**.
+- 🔭 Currently working on **personal and freelance web development projects**.
+- 🌱 Deepening my skills in **cloud-based back-end development** and **modern frontend frameworks**.
+- 🧩 Always excited to explore **new technologies and innovative solutions**.
 - 📫 How to reach me: **wahyunih297@gmail.com**
-- 🧋 Fun fact: **I love building things from scratch and making them real!**
+- 🧋 Fun fact: **I love building things from scratch and turning ideas into reality!**
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ## ☕ Let's Collaborate!
-If you're into **mobile app development**, **cloud backend**, or anything **tech-related** —  
+If you're into **web development**, **cloud computing**, or anything **tech-related** —  
 let's connect and create something amazing together! 🚀
 
 ✨ **Keep coding, keep growing!**
