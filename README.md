@@ -1,30 +1,40 @@
-Hi there! 👋 I'm Wahyu Nugraha
-🎯 A passionate Mobile Android Developer who loves creating and sharing projects about mobile development.
-🎓 Currently an active student at Sriwijaya University.
-☁️ Learning more about Front End Dev.
+# Hi there! 👋 I'm Wahyu Nugraha
+
+🎯 A passionate **Mobile Android Developer** who loves creating and sharing projects about mobile development.  
+🎓 Currently an active student at **Sriwijaya University**.  
+☁️ Learning more about **Front-End Development**.  
 💬 Feel free to reach out if you want to collaborate, discuss, or just chat!
 
-🚀 About Me
-🔭 I’m currently working on personal mobile app projects.
+---
 
-🌱 I’m deepening my knowledge in cloud-based back-end development.
+## 🚀 About Me
+- 🔭 Currently working on **Nothing**.
+- 🌱 Deepening my knowledge in **Web Development**.
+- 🧩 Always excited to learn **new technologies and frameworks**.
+- 📫 How to reach me: **wahyunih297@gmail.com**
+- 🧋 Fun fact: **I love building things from scratch and making them real!**
 
-🧩 Always excited to learn new technologies and frameworks.
+---
 
-📫 How to reach me: wahyunih297@gmail.com
-
-🧋 Fun fact: I love building things from scratch and making them real!
-
-📈 GitHub Statistics
+## 📈 GitHub Statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-🔗 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-☕ Let's Collaborate!
-If you're into mobile app development, cloud backend, or anything tech-related —
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ Let's Collaborate!
+If you're into **mobile app development**, **cloud backend**, or anything **tech-related** —  
 let's connect and create something amazing together! 🚀
 
-✨ Keep coding, keep growing!
+✨ **Keep coding, keep growing!**
