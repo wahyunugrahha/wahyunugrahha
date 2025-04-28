@@ -22,7 +22,7 @@ Hi there! 👋 I'm Wahyu Nugraha
 </p>
 
 🔗 Connect with Me
-<p align="left"> <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/wahyunugrahha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/wahyunugrahha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ☕ Let's Collaborate!
 If you're into mobile app development, cloud backend, or anything tech-related —
 let's connect and create something amazing together! 🚀
