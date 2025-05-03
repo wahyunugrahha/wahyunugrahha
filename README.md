@@ -2,7 +2,7 @@
 
 🎯 A passionate **Software Developer** who loves building and sharing tech projects.  
 🎓 Graduate of **Sriwijaya University**, majoring in **Informatics Engineering**.  
-☁️ Learning more about **Front-End Development** and **Cloud Computing**.  
+☁️ Learning more about **Technology**.  
 💬 Feel free to reach out if you want to collaborate, discuss tech, or just chat!
 
 ---
