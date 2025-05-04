@@ -14,11 +14,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v2
+        uses: denvercoder1/github-readme-streak-stats@v3.0.0
         with:
           username: wahyunugrahha
           show_icons: true
-          include_all_commits: true
           count_private: true
           theme: algolia
           token: ${{ secrets.GH_TOKEN }}
