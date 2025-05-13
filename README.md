@@ -18,10 +18,10 @@
 
 ## 📈 GitHub Statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=merko&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyunugrahha&show_icons=true&theme=merko&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunugrahha&layout=compact&langs_count=8&theme=merko&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyunugrahha&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyunugrahha&theme=merko&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
