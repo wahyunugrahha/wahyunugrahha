@@ -12,7 +12,7 @@
 - 🌱 Deepening my skills in **cloud-based back-end development** and **modern frontend frameworks**.
 - 🧩 Always excited to explore **new technologies and innovative solutions**.
 - 📫 How to reach me: **wahyunih297@gmail.com**
-- 🧋 Fun fact: **I love building things from scratch and turning ideas into reality!**
+- 🧋 Fun fact: **"I Have Motto, Cepat Kerja, Cepat Selesai, Cepat Santai"**
 
 ---
 
@@ -36,7 +36,14 @@
 ---
 
 ## ☕ Let's Collaborate!
-If you're into **web development**, **cloud computing**, or anything **tech-related** —  
+If you're into **web development**, **software developer**, or anything **tech-related** —  
 let's connect and create something amazing together! 🚀
 
 ✨ **Keep coding, keep growing!**
+
+---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wahyunugrahha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
