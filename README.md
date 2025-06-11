@@ -12,7 +12,7 @@
 - 🌱 Deepening my skills in **cloud-based back-end development** and **modern frontend frameworks**.
 - 🧩 Always excited to explore **new technologies and innovative solutions**.
 - 📫 How to reach me: **wahyunih297@gmail.com**
-- 🧋 Fun fact: **"I Have Motto, Cepat Kerja, Cepat Selesai, Cepat Santai"**
+- 🧋 Fun fact: **I Have Motto, "Cepat Kerja, Cepat Selesai, Cepat Santai"**
 
 ---
 
